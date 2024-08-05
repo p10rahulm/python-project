@@ -1,2 +1,2 @@
 # python-project
-Attempting Python Problems. 
+Simple Python problems for a course being taught for second year students at ISB&M, Bangalore.
